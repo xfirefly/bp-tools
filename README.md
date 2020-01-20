@@ -29,8 +29,10 @@ sh stop.sh
 - Open http and p2p Ports on your firewall/router  
  
 ## QQBC private key map to public key
-Offline tool to verify your QQBC private key and map to public key ,
-Steps to running this tool with peace of mind!
+- Online 
+ [qqbc-io.github.io/bp-tools](https://qqbc-io.github.io/bp-tools/)
+ 
+- Offline : Steps to running this tool with peace of mind!
 1. Turn your device offline. This page will work without an internet connection.
 2. Paste your QQBC private key and then click on "Map to QQBC public key"
 3. Your QQBC private key and corresponding public key will show up. All done! You can close this page and then turn on internet connection :)
