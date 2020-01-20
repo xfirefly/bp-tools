@@ -1,10 +1,9 @@
 # Welcome to the QQBC MainNet
 
-Tool for quickly deploying QQBC chain block-produce nodes
+Tool for quickly deploy QQBC chain block-produce nodes
  
 
 ## Start node for the first time
-
 
 ```
 sh start_first_run.sh 
@@ -12,7 +11,7 @@ sh start_first_run.sh
 ## Start node
 
 ```
-sh start_first_run.sh 
+sh start.sh 
 ```  
 
 ## Stop node
